@@ -7,7 +7,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/pawanbhatia1304/boiling-backlog-traffic-light-simulation/blob/main/main2.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/pawanbhatia1304/boiling-backlog-traffic-light-simulation/blob/main/source%20code\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -24,7 +24,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 4,
+      "execution_count": null,
       "metadata": {
         "id": "gJr_9dXGpJ05",
         "outputId": "0a3e1922-f6e5-4e73-cd99-c86aa32d427a",
