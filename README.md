@@ -37,8 +37,11 @@ To run this project, you need to have Python installed on your machine. You can 
 
 ## Code Structure
 
--traffic_light_simulation.py: The main Python script that contains the simulation logic and visualization code.
--README.md: This README file.
+- traffic_light_simulation.ipynb : The main Python script that contains the simulation logic and visualization code.
+- Data
+- Output
+- Demo Code Video
+- README.md : This README file.
 
 ## Results
 Upon running the simulation, we will see two plots that provide insights into the traffic light's performance:
